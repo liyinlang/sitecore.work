@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## LUCKHUT
 
-You can use the [editor on GitHub](https://github.com/liyinlang/dongjiaoxiaozhen.cn/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+这个网站就是看看github网站建站的。完整的网站数据请访问：https://www.luckhut.com
 
 ### Markdown
 
