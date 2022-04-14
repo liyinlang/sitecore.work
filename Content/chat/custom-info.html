@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html lang="cn">
+<head>
+    <meta charset="UTF-8">
+    <title>&#x5BA2;&#x670D;</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="renderer" content="webkit|ie-comp|ie-stand" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <script src="/Content/jquery-3.4.1.min.js?v=20191115"></script>
+    <script src="/Content/vue.js?v=20191115"></script>
+    <script src="/Content/popper.js?v=20191115"></script>
+    <script src="/Content/bootstrap/js/bootstrap.js?v=20191115"></script>
+    <script src="/Content/bootstrap/js/bootstrap.bundle.js?v=20191115"></script>
+    <script src="/Content/Scripts/frame.js?v=20191117"></script>
+    <script src="/Content/Scripts/manage.js?v=20191117"></script>
+</head>
+<body>
+    <script>
+		let sessioncode = localStorage.getItem('eysln_com');//url
+		$('<pre>' + JSON.stringify(JSON.parse(window.decodeURIComponent(document.URL.split('?i=')[1])),null,4) + '</pre>').appendTo('body')
+    </script>
+</body>
+</html>
